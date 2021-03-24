@@ -1,0 +1,53 @@
+html {
+	font-family: "Anglecia Pro Display", Garamond, serif;
+}
+
+body {
+	background-color: #efe;
+	padding: 1em;
+}
+
+/* Layout for card */
+
+.maincard {
+	background-color: #ffd;
+	width: 300px;
+	padding: 15px;
+	border: 1px solid #ccc;
+	box-shadow: 7px 7px #eee;
+}
+
+
+/* Animal Name */
+
+h3 {
+	font-size: 25px;
+}
+
+/* Card Content layout */
+
+.card-info {
+	margin: 1em 0 0;
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+
+/* Interesting Fact */
+
+.fact {
+	font-style: italic;
+	font-weight: 500;
+}
+
+/* Information List and Summary */
+
+.list {
+	list-style: none;
+	padding: 0;
+}
+
+
+.label {
+	font-weight: bold;
+	font-size: 18px;
+}
